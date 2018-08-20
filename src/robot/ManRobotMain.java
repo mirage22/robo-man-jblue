@@ -10,6 +10,10 @@ import com.robo4j.man.demo.RobotCenter;
 /**
  * ManRobotMain represent the main entry point for the 
  * ManRobot program. It is necessary to implement the logic.
+ * 
+ * After the robot logic has been implemented the SystemMain.main 
+ * method can be exectued in order to process defined action.
+ * For more information follow the doc in SystemMain class
  *
  * @author Miroslav Wengner(@miragemiko)
  */ 

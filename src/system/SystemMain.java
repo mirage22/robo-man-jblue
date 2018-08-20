@@ -10,6 +10,18 @@ import com.robo4j.tools.center.CenterMain;
  * root
  * 
  * SystemMain class can be directly executed from the BlueJ IDE
+ * 
+ * configuration of the Robo4J Center is specified by robo4jCenter.xml file
+ * it defined action that are preocessed upon the project code: compile, upload 
+ * ...
+ * <centerActions>compile,upload</centerActions>
+ * ...
+ * 
+ * the cofiguration contins the IP address of the connected LEGO EV3 Brick
+ * 
+ * ...
+ * <deviceIP>10.0.1.1</deviceIP>
+ * ... 
  *
  * @author Miroslav Wengner(@miragemiko)
  */
