@@ -8,11 +8,12 @@ import com.robo4j.man.demo.InfraRedSensor;
 import com.robo4j.man.demo.RobotCenter;
 
 /**
- * ManRobotMain is designed 
+ * ManRobotMain represent the main entry point for the 
+ * ManRobot program. It is necessary to implement the logic.
  *
  * @author Miroslav Wengner(@miragemiko)
- */
-public class ManRobotMain extends ManRobotLogic
+ */ 
+public final class ManRobotMain extends ManRobotLogic
 {
     public static void main(String[] args){
         ManRobotMain robot = new ManRobotMain();

@@ -2,7 +2,14 @@ package src.system;
 
 import com.robo4j.tools.center.CenterMain;
 /**
- * Write a description of class SystemMain here.
+ * SystemMain is the util class used for compiling and uploading 
+ * final RoboMan solution to the LEGO EV3 Brick. 
+ * The LEGO EV3 Brick need to be connect to the system by using 
+ * Bluetooth, W-LAN or USB connector. 
+ * The final result (RoboMan.jar) will be stored in the project
+ * root
+ * 
+ * SystemMain class can be directly executed from the BlueJ IDE
  *
  * @author Miroslav Wengner(@miragemiko)
  */

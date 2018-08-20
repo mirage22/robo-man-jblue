@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=SystemMain
-comment0.text=\n\ Write\ a\ description\ of\ class\ SystemMain\ here.\n\n\ @author\ Miroslav\ Wengner(@miragemiko)\n
+comment0.text=\n\ SystemMain\ is\ the\ util\ class\ used\ for\ compiling\ and\ uploading\ \n\ final\ RoboMan\ solution\ to\ the\ LEGO\ EV3\ Brick.\ \n\ The\ LEGO\ EV3\ Brick\ need\ to\ be\ connect\ to\ the\ system\ by\ using\ \n\ Bluetooth,\ W-LAN\ or\ USB\ connector.\ \n\ The\ final\ result\ (RoboMan.jar)\ will\ be\ stored\ in\ the\ project\n\ root\n\ \n\ SystemMain\ class\ can\ be\ directly\ executed\ from\ the\ BlueJ\ IDE\n\n\ @author\ Miroslav\ Wengner(@miragemiko)\n
 comment1.params=args
 comment1.target=void\ main(java.lang.String[])
 numComments=2

@@ -7,10 +7,13 @@ import com.robo4j.man.demo.RobotCenter;
 import com.robo4j.man.demo.LegoBrick;
 
 /**
- * Write a description of class ManRobotLogic here.
+ * ManRobotLogic is the helper abstact class which contains 
+ * basic logic necessary to run RoboMan project on the LEGO
+ * EV3 Brick. 
+ * The class contains ManRobot life cycle (prepare, logic, initiate, shutdown)
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Miroslav Wengner (@miragemiko)
+
  */
 public abstract class ManRobotLogic
 {
