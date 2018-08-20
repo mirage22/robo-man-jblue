@@ -1,0 +1,15 @@
+<robo4jCenter>
+    <projectType>standalone</projectType>
+    <mainSourcePath>src</mainSourcePath>
+    <mainResourcePath>resources</mainResourcePath>
+    <mainPackage>robot</mainPackage>
+    <mainClass>ManRobotMain</mainClass>
+    <robo4jLibrary>robo-man-1.0-SNAPSHOT.jar</robo4jLibrary>
+    <outDirectory>out</outDirectory>
+    <jarFileName>ManRobot</jarFileName>
+    <centerActions>compile</centerActions>
+    <deviceIP>10.0.1.1</deviceIP>
+    <deviceType>lego</deviceType>
+    <devicePass>no</devicePass>
+    <excludedPaths>com.robo4j.socket,com.robo4j.tools,com.robo4j.man.system,com.jcraft,src.system,com.robo4j.man</excludedPaths>
+</robo4jCenter>

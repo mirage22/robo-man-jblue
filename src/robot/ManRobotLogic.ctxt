@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ManRobotLogic
+comment0.text=\n\ Write\ a\ description\ of\ class\ ManRobotLogic\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ prepare()
+comment2.params=
+comment2.target=void\ logic()
+comment3.params=
+comment3.target=void\ run()
+comment4.params=
+comment4.target=com.robo4j.RoboContext\ initiate()
+comment5.params=system
+comment5.target=void\ shutdown(com.robo4j.RoboContext)
+numComments=6
