@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=ManRobotMain
-comment0.text=\n\ ManRobotMain\ represent\ the\ main\ entry\ point\ for\ the\ \n\ ManRobot\ program.\ It\ is\ necessary\ to\ implement\ the\ logic.\n\n\ @author\ Miroslav\ Wengner(@miragemiko)\n
+comment0.text=\n\ ManRobotMain\ represent\ the\ main\ entry\ point\ for\ the\ \n\ ManRobot\ program.\ It\ is\ necessary\ to\ implement\ the\ logic.\n\ \n\ After\ the\ robot\ logic\ has\ been\ implemented\ the\ SystemMain.main\ \n\ method\ can\ be\ exectued\ in\ order\ to\ process\ defined\ action.\n\ For\ more\ information\ follow\ the\ doc\ in\ SystemMain\ class\n\n\ @author\ Miroslav\ Wengner(@miragemiko)\n
 comment1.params=args
 comment1.target=void\ main(java.lang.String[])
 comment2.params=
