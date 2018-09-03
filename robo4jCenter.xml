@@ -7,7 +7,7 @@
     <robo4jLibrary>robo-man-1.0-SNAPSHOT.jar</robo4jLibrary>
     <outDirectory>out</outDirectory>
     <jarFileName>ManRobot</jarFileName>
-    <centerActions>upload,compile</centerActions>
+    <centerActions>upload</centerActions>
     <deviceIP>10.0.1.1</deviceIP>
     <deviceType>lego</deviceType>
     <devicePass>no</devicePass>
